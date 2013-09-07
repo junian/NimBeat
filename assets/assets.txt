@@ -1,0 +1,7 @@
+d:war/
+i:block_normal.png
+i:compwin.jpg
+a:drop.wav
+i:droplet.png
+a:nimgame-bgm.ogg
+i:playerwin.jpg
